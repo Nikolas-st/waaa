@@ -3579,3 +3579,32 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[05:19:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:19:10] [Server thread/INFO]: <--[HERE]
+[05:23:17] [Server thread/INFO]: [Handshake] Sending channel query
+[05:23:17] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[05:23:17] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[05:23:18] [Server thread/INFO]: xX_nekouraxD_Xx[/127.151.24.11:59767] logged in with entity id 1036 at (7.5, 74.0, -4.5)
+[05:23:18] [Server thread/INFO]: Sending server config values to client
+[05:23:18] [Server thread/INFO]: Syncing config to xX_nekouraxD_Xx (ff4ae6bc-ecde-3b9d-bca1-ab72391660b6)
+[05:23:19] [Server thread/INFO]: Loading config from file...
+[05:23:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:23:19] [Server thread/INFO]: xX_nekouraxD_Xx joined the game
+[05:23:19] [Server thread/INFO]: Loading Configs for Sortilege
+[05:23:19] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[05:23:19] [Server thread/INFO]: Updating all forceload tickets for ff4ae6bc-ecde-3b9d-bca1-ab72391660b6
+[05:23:20] [Server thread/INFO]: PLAYER_JOIN
+[05:23:20] [Server thread/INFO]: add_player wand
+[05:23:20] [Server thread/INFO]: config sent
+[05:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[05:23:20] [Server thread/INFO]: xX_nekouraxD_Xx has made the advancement [Mythic Mobs]
+[05:23:22] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[05:23:26] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: xX_nekouraxD_Xx -> Global
+[05:23:26] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player xX_nekouraxD_Xx. Claiming: GRAVE / Robbing: INVENTORY
+[05:23:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of xX_nekouraxD_Xx accepted server config.
+[05:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[05:25:02] [Server thread/INFO]: xX_nekouraxD_Xx has made the advancement [Not Today, Thank You]
+[05:25:28] [Server thread/INFO]: xX_nekouraxD_Xx has made the advancement [Monster Hunter]
+[05:26:01] [Server thread/INFO]: Set the time to 1000
+[05:26:43] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[05:26:43] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
